@@ -1,3 +1,15 @@
+# Installation
+
+"Cocktail App" requires CocoaPods 1.2.1. Follow the [CocoaPods instructions](https://cocoapods.org) to install it. 
+
+Then you can install the dependencies of "Cocktail App". Open a Terminal and go to "Cocktail" folder and run:
+
+    pod install
+
+Make sure to always open the Xcode workspace instead of the project file
+
+Thanks
+
 # Code Challenge
 
 ## Instructions:
